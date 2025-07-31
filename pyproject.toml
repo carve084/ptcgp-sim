@@ -1,0 +1,12 @@
+[project]
+name = "ptcgp-sim"
+version = "0.1.0"
+dependencies = [
+  "certifi",
+  "charset-normalizer",
+  "idna",
+  "psycopg2_binary",
+  "requests",
+  "Unidecode",
+  "urllib3"
+]

@@ -1,0 +1,1553 @@
+[
+    {
+        "id": "P-A-005",
+        "field": "tcgdex_effect",
+        "value": "Put a random Basic Pok\u00e9mon from your deck into your hand."
+    },
+    {
+        "id": "P-A-012",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Pay Day",
+                "effect": "Draw a card.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "P-A-063",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Spiral Rush",
+                "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+                "damage": "70"
+            }
+        ]
+    },
+    {
+        "id": "P-A-066",
+        "field": "tcgdex_description",
+        "value": "This Pok\u00e9mon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu."
+    },
+    {
+        "id": "A1-016",
+        "field": "tcgdex_hp",
+        "value": 50
+    },
+    {
+        "id": "A1-022",
+        "field": "tcgdex_hp",
+        "value": 160
+    },
+    {
+        "id": "A1-034",
+        "field": "tcgdex_description",
+        "value": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames."
+    },
+    {
+        "id": "A1-035",
+        "field": "tcgdex_description",
+        "value": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws."
+    },
+    {
+        "id": "A1-038",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "name": "Flamethrower",
+                "effect": "Discard 1 {R} Energy from this Pok\u00e9mon.",
+                "damage": "90"
+            }
+        ]
+    },
+    {
+        "id": "A1-040",
+        "field": "tcgdex_hp",
+        "value": 150
+    },
+    {
+        "id": "A1-050",
+        "field": "tcgdex_stage",
+        "value": "Basic"
+    },
+    {
+        "id": "A1-050",
+        "field": "tcgdex_evolveFrom",
+        "value": null
+    },
+    {
+        "id": "A1-052",
+        "field": "tcgdex_weakness",
+        "value": null
+    },
+    {
+        "id": "A1-055",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Hydro Pump",
+                "effect": "If this Pok\u00e9mon has at least 2 extra {W} Energy attached, this attack does 60 more damage.",
+                "damage": "80+"
+            }
+        ]
+    },
+    {
+        "id": "A1-071",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Water Arrow",
+                "effect": "This attack does 50 damage to 1 of your opponent's Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": "A1-078",
+        "field": "tcgdex_illustrator",
+        "value": "Mituhiro Arita"
+    },
+    {
+        "id": "A1-081",
+        "field": "tcgdex_retreat",
+        "value": 2
+    },
+    {
+        "id": "A1-103",
+        "field": "tcgdex_hp",
+        "value": 130
+    },
+    {
+        "id": "A1-104",
+        "field": "tcgdex_retreat",
+        "value": 2
+    },
+    {
+        "id": "A1-112",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thunder Shock",
+                "effect": "Flip a coin. If heads, your opponent's Active Pok\u00e9mon is now Paralyzed.",
+                "damage": "40"
+            }
+        ]
+    },
+    {
+        "id": "A1-119",
+        "field": "tcgdex_illustrator",
+        "value": "Kogemaru Himeno"
+    },
+    {
+        "id": "A1-152",
+        "field": "tcgdex_hp",
+        "value": 140
+    },
+    {
+        "id": "A1-156",
+        "field": "tcgdex_weakness",
+        "value": "Psychic"
+    },
+    {
+        "id": "A1-157",
+        "field": "tcgdex_weakness",
+        "value": "Psychic"
+    },
+    {
+        "id": "A1-158",
+        "field": "tcgdex_weakness",
+        "value": "Psychic"
+    },
+    {
+        "id": "A1-159",
+        "field": "tcgdex_weakness",
+        "value": "Psychic"
+    },
+    {
+        "id": "A1-181",
+        "field": "tcgdex_hp",
+        "value": 70
+    },
+    {
+        "id": "A1-186",
+        "field": "tcgdex_retreat",
+        "value": 0
+    },
+    {
+        "id": "A1-196",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Pay Day",
+                "effect": "Draw a card.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A1-210",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Primal Wingbeat",
+                "effect": "Flip a coin. If heads, your opponent shuffles their Active Pok\u00e9mon into their deck."
+            }
+        ]
+    },
+    {
+        "id": "A1-224",
+        "field": "tcgdex_effect",
+        "value": "Take 1 {F} Energy from your Energy Zone and attach it to your Golem or Onix."
+    },
+    {
+        "id": "A1-233",
+        "field": "tcgdex_retreat",
+        "value": 0
+    },
+    {
+        "id": "A1-236",
+        "field": "tcgdex_illustrator",
+        "value": "Akira Egawa"
+    },
+    {
+        "id": "A1-241",
+        "field": "tcgdex_retreat",
+        "value": 0
+    },
+    {
+        "id": "A1-246",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Pay Day",
+                "effect": "Draw a card.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A1-253",
+        "field": "tcgdex_illustrator",
+        "value": ""
+    },
+    {
+        "id": "A1-260",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Raging Thunder",
+                "effect": "This attack also does 30 damage to 1 of your Benched Pok\u00e9mon.",
+                "damage": "100"
+            }
+        ]
+    },
+    {
+        "id": "A1-260",
+        "field": "tcgdex_weakness",
+        "value": "Fighting"
+    },
+    {
+        "id": "A1-261",
+        "field": "tcgdex_retreat",
+        "value": 0
+    },
+    {
+        "id": "A1-268",
+        "field": "tcgdex_illustrator",
+        "value": "Hideki Ishikawa"
+    },
+    {
+        "id": "A1-271",
+        "field": "tcgdex_effect",
+        "value": "Take 1 {F} Energy from your Energy Zone and attach it to your Golem or Onix."
+    },
+    {
+        "id": "A1-276",
+        "field": "tcgdex_retreat",
+        "value": 2
+    },
+    {
+        "id": "A1-286",
+        "field": "tcgdex_illustrator",
+        "value": "PLANETA CG Works"
+    },
+    {
+        "id": "A1a-018",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Rampaging Whirlpool",
+                "effect": "Discard a random Energy from among the Energy attached to all Pok\u00e9mon (both yours and your opponent's).",
+                "damage": "140"
+            }
+        ]
+    },
+    {
+        "id": "A1a-046",
+        "field": "tcgdex_evolveFrom",
+        "value": null
+    },
+    {
+        "id": "A1a-060",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Fighting Tackle",
+                "effect": "If your opponent's Active Pok\u00e9mon is a Pok\u00e9mon {ex}, this attack does 80 more damage.",
+                "damage": "40+"
+            }
+        ]
+    },
+    {
+        "id": "A1a-061",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Continuous Steps",
+                "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A1a-076",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Rampaging Whirlpool",
+                "effect": "Discard a random Energy from among the Energy attached to all Pok\u00e9mon (both yours and your opponent's).",
+                "damage": "140"
+            }
+        ]
+    },
+    {
+        "id": "A1a-078",
+        "field": "tcgdex_evolveFrom",
+        "value": null
+    },
+    {
+        "id": "A1a-084",
+        "field": "tcgdex_evolveFrom",
+        "value": null
+    },
+    {
+        "id": "A2-126",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Quick Attack",
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A2-141",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Fury Attack",
+                "effect": "Flip 3 coins. This attack does 20 damage for each heads.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A2a-036",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Fighting Headbutt",
+                "effect": "If your opponent's Active Pok\u00e9mon is a Pok\u00e9mon {ex}, this attack does 30 more damage.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A2a-069",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Sky Support",
+                "effect": "As long as this Pok\u00e9mon is on your Bench, your Active Basic Pok\u00e9mon's Retreat Cost is 1 less."
+            }
+        ]
+    },
+    {
+        "id": "A2a-079",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Fighting Headbutt",
+                "effect": "If your opponent's Active Pok\u00e9mon is a Pok\u00e9mon ex, this attack does 30 more damage.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A2a-081",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Sky Support",
+                "effect": "As long as this Pok\u00e9mon is on your Bench, your Active Basic Pok\u00e9mon's Retreat Cost is 1 less."
+            }
+        ]
+    },
+    {
+        "id": "A2b-025",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma",
+                "effect": "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched  Pok\u00e9mon.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A2b-085",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Venoshock",
+                "effect": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 60 more damage.",
+                "damage": "60"
+            }
+        ]
+    },
+    {
+        "id": "A2b-093",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Venoshock",
+                "effect": "If your opponent's Active Pok\u00e9mon is Poisoned, this attack does 60 more damage.",
+                "damage": "60"
+            }
+        ]
+    },
+    {
+        "id": "A2b-103",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Plasma",
+                "effect": "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched  Pok\u00e9mon.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A2b-111",
+        "field": "tcgdex_effect",
+        "value": "Put a random Basic Pok\u00e9mon from your deck into your hand."
+    },
+    {
+        "id": "A3-051",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "School Storm",
+                "effect": "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.",
+                "damage": "30+"
+            }
+        ]
+    },
+    {
+        "id": "A3-053",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Dangerous Claws",
+                "effect": "If your opponent's Active Pok\u00e9mon is a Basic Pok\u00e9mon, this attack does 60 more damage.",
+                "damage": "60+"
+            }
+        ]
+    },
+    {
+        "id": "A3-155",
+        "field": "tcgdex_effect",
+        "value": "Heal 60 damage from 1 of your Stage 2 Pok\u00e9mon."
+    },
+    {
+        "id": "A3-182",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Fire Fang",
+                "effect": "Your opponent's Active Pok\u00e9mon is now Burned.",
+                "damage": "30"
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Scar-Charged Smash",
+                "effect": "If this Pok\u00e9mon has damage on it, this attack does 60 more damage.",
+                "damage": "80"
+            }
+        ]
+    },
+    {
+        "id": "A3-184",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "School Storm",
+                "effect": "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.",
+                "damage": "30+"
+            }
+        ]
+    },
+    {
+        "id": "A3-197",
+        "field": "tcgdex_effect",
+        "value": "Heal 60 damage from 1 of your Stage 2 Pok\u00e9mon."
+    },
+    {
+        "id": "A3-200",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Fire Fang",
+                "effect": "Your opponent's Active Pok\u00e9mon is now Burned.",
+                "damage": "30"
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Scar-Charged Smash",
+                "effect": "If this Pok\u00e9mon has damage on it, this attack does 60 more damage.",
+                "damage": "80"
+            }
+        ]
+    },
+    {
+        "id": "A3-202",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "School Storm",
+                "effect": "This attack does 40 more damage for each of your Benched Wishiwashi and Wishiwashi ex.",
+                "damage": "30+"
+            }
+        ]
+    },
+    {
+        "id": "A3-209",
+        "field": "tcgdex_effect",
+        "value": "Heal 60 damage from 1 of your Stage 2 Pok\u00e9mon."
+    },
+    {
+        "id": "A3-217",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Hydro Pump",
+                "effect": "If this Pok\u00e9mon has at least 2 extra {W} Energy attached, this attack does 60 more damage.",
+                "damage": "80"
+            }
+        ]
+    },
+    {
+        "id": "A3-228",
+        "field": "tcgdex_description",
+        "value": "When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep."
+    },
+    {
+        "id": "A3a-003",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Fury Attack",
+                "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A3a-028",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Trip Over",
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A3a-031",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Heal Block",
+                "effect": "Pok\u00e9mon (both yours and your opponent's) can't be healed."
+            }
+        ]
+    },
+    {
+        "id": "A3a-034",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Let's Throw",
+                "effect": "If Passimian is on your Bench, this attack does 40 more damage.",
+                "damage": "40"
+            }
+        ]
+    },
+    {
+        "id": "A3a-044",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "2-Step",
+                "effect": "Flip 2 coins. This attack does 20 damage for each heads.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A3a-047",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Triplet Headbutt",
+                "effect": "Flip 3 coins. This attack does 60 damage for each heads.",
+                "damage": "60"
+            }
+        ]
+    },
+    {
+        "id": "A3a-060",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Quick Blow",
+                "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A3a-061",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Brave Buddies",
+                "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
+                "damage": "50"
+            }
+        ]
+    },
+    {
+        "id": "A3a-063",
+        "field": "tcgdex_effect",
+        "value": "You can use this card only if your opponent hasn't gotten any points.  During your opponent's next turn, all of your Ultra Beasts take \u221220 damage from attacks from your opponent's Pok\u00e9mon."
+    },
+    {
+        "id": "A3a-069",
+        "field": "tcgdex_effect",
+        "value": "You can use this card only if your opponent has gotten at least 1 point.  Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pok\u00e9mon."
+    },
+    {
+        "id": "A3a-070",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Fury Attack",
+                "effect": "Flip 3 coins. This attack does 10 damage for each heads.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A3a-074",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Brave Buddies",
+                "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
+                "damage": "50"
+            }
+        ]
+    },
+    {
+        "id": "A3a-080",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Triplet Headbutt",
+                "effect": "Flip 3 coins. This attack does 60 damage for each heads.",
+                "damage": "60"
+            }
+        ]
+    },
+    {
+        "id": "A3a-083",
+        "field": "tcgdex_effect",
+        "value": "You can use this card only if your opponent has gotten at least 1 point.  Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pok\u00e9mon."
+    },
+    {
+        "id": "A3a-087",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Triplet Headbutt",
+                "effect": "Flip 3 coins. This attack does 60 damage for each heads.",
+                "damage": "60"
+            }
+        ]
+    },
+    {
+        "id": "A3a-094",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psychic",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pok\u00e9mon.",
+                "damage": "30"
+            }
+        ]
+    },
+    {
+        "id": "A3a-098",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Primal Wingbeat",
+                "effect": "Flip a coin. If heads, your opponent shuffles their Active Pok\u00e9mon into their deck."
+            }
+        ]
+    },
+    {
+        "id": "A3a-099",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Powerful Bloom",
+                "effect": "Flip a coin for each Energy attached to this Pok\u00e9mon. This attack does 50 damage for each heads.",
+                "damage": "50"
+            }
+        ]
+    },
+    {
+        "id": "A3a-102",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Scattering Cyclone",
+                "effect": "This attack does 20 more damage for each of your opponent's Benched Pok\u00e9mon.",
+                "damage": "80"
+            }
+        ]
+    },
+    {
+        "id": "A3b-002",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Leaf Blast",
+                "effect": "This attack does 20 more damage for each {G} Energy attached to this Pok\u00e9mon.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A3b-007",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Sweets Relay",
+                "effect": "If 1 of your Pok\u00e9mon used Sweets Relay during your last turn, this attack does 30 more damage.",
+                "damage": "40"
+            }
+        ]
+    },
+    {
+        "id": "A3b-009",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Combust",
+                "effect": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pok\u00e9mon. If you do, do 20 damage to this Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": "A3b-013",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Darkest Lariat",
+                "effect": "Flip 2 coins. This attack does 100 damage for each heads.",
+                "damage": "100"
+            }
+        ]
+    },
+    {
+        "id": "A3b-018",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Sweets Relay",
+                "effect": "If 1 of your Pok\u00e9mon used Sweets Relay during your last turn, this attack does 20 more damage.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A3b-019",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Sweets Relay",
+                "effect": "If 1 of your Pok\u00e9mon used Sweets Relay during your last turn, this attack does 20 more damage.",
+                "damage": "30"
+            }
+        ]
+    },
+    {
+        "id": "A3b-020",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Double Spin",
+                "effect": "Flip 2 coins. This attack does 80 damage for each heads.",
+                "damage": "80"
+            }
+        ]
+    },
+    {
+        "id": "A3b-024",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "effect": "If this Pok\u00e9mon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+                "damage": "40"
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Sparkling Aria",
+                "effect": "Heal 20 damage from this Pok\u00e9mon.",
+                "damage": "100"
+            }
+        ]
+    },
+    {
+        "id": "A3b-025",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Beginning Bolt",
+                "effect": "If this Pok\u00e9mon evolved during this turn, this attack does 20 more damage.",
+                "damage": "40"
+            }
+        ]
+    },
+    {
+        "id": "A3b-028",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Energy Crush",
+                "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pok\u00e9mon.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A3b-031",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Sweets Relay",
+                "effect": "If 1 of your Pok\u00e9mon used Sweets Relay during your last turn, this attack does 20 more damage.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A3b-032",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sweets Relay",
+                "effect": "If 1 of your Pok\u00e9mon used Sweets Relay during your last turn, this attack does 60 more damage.",
+                "damage": "30"
+            }
+        ]
+    },
+    {
+        "id": "A3b-033",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Evoharmony",
+                "effect": "This attack does 30 more damage for each Evolution Pok\u00e9mon on your Bench.",
+                "damage": "40"
+            }
+        ]
+    },
+    {
+        "id": "A3b-034",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Happy Ribbon",
+                "effect": "Once during your turn, when you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon, you may draw 2 cards."
+            }
+        ]
+    },
+    {
+        "id": "A3b-036",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Sweets Relay",
+                "effect": "If 1 of your Pok\u00e9mon used Sweets Relay during your last turn, this attack does 20 more damage.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A3b-037",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Sweets Overload",
+                "effect": "This attack does 40 damage for each time your Pok\u00e9mon used Sweets Relay during this game.",
+                "damage": "40"
+            }
+        ]
+    },
+    {
+        "id": "A3b-051",
+        "field": "tcgdex_weakness",
+        "value": "Colorless"
+    },
+    {
+        "id": "A3b-052",
+        "field": "tcgdex_weakness",
+        "value": "Colorless"
+    },
+    {
+        "id": "A3b-053",
+        "field": "tcgdex_weakness",
+        "value": "Colorless"
+    },
+    {
+        "id": "A3b-054",
+        "field": "tcgdex_weakness",
+        "value": "Colorless"
+    },
+    {
+        "id": "A3b-056",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Veevee 'volve",
+                "effect": "This Pok\u00e9mon can evolve into any Pok\u00e9mon that evolves from Eevee if you play it from your hand onto this Pok\u00e9mon. (This Pok\u00e9mon can't evolve during your first turn or the turn you play it.)"
+            }
+        ]
+    },
+    {
+        "id": "A3b-057",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Full-Mouth Manner",
+                "effect": "At the end of your turn, if this Pok\u00e9mon is in the Active Spot, heal 20 damage from it."
+            }
+        ]
+    },
+    {
+        "id": "A3b-058",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Double Hit",
+                "effect": "Flip 2 coins. This attack does 20 damage for each heads.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A3b-059",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Catching Tail",
+                "effect": "Once during your turn, you may put a random Pok\u00e9mon Tool card from your deck into your hand."
+            }
+        ]
+    },
+    {
+        "id": "A3b-061",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Do the Wave",
+                "effect": "This attack does 20 damage for each of your Benched Pok\u00e9mon.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A3b-065",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Enhanced Fang",
+                "effect": "If this Pok\u00e9mon has a Pok\u00e9mon Tool attached, this attack does 50 more damage.",
+                "damage": "50"
+            }
+        ]
+    },
+    {
+        "id": "A3b-066",
+        "field": "tcgdex_effect",
+        "value": "Choose 1:  During this turn, attacks used by your Pok\u00e9mon that evolve from Eevee do +10 damage to your opponent's Active Pok\u00e9mon.  Heal 20 damage from each of your Pok\u00e9mon that evolves from Eevee."
+    },
+    {
+        "id": "A3b-070",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Leaf Blast",
+                "effect": "This attack does 20 more damage for each {G} Energy attached to this Pok\u00e9mon.",
+                "damage": "10"
+            }
+        ]
+    },
+    {
+        "id": "A3b-074",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Beginning Bolt",
+                "effect": "If this Pok\u00e9mon evolved during this turn, this attack does 20 more damage.",
+                "damage": "40"
+            }
+        ]
+    },
+    {
+        "id": "A3b-075",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Energy Crush",
+                "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pok\u00e9mon.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A3b-076",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Evoharmony",
+                "effect": "This attack does 30 more damage for each Evolution Pok\u00e9mon on your Bench.",
+                "damage": "40"
+            }
+        ]
+    },
+    {
+        "id": "A3b-079",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Combust",
+                "effect": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pok\u00e9mon. If you do, do 20 damage to this Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": "A3b-080",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "effect": "If this Pok\u00e9mon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+                "damage": "40"
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Sparkling Aria",
+                "effect": "Heal 20 damage from this Pok\u00e9mon.",
+                "damage": "100"
+            }
+        ]
+    },
+    {
+        "id": "A3b-081",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Happy Ribbon",
+                "effect": "Once during your turn, when you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon, you may draw 2 cards."
+            }
+        ]
+    },
+    {
+        "id": "A3b-082",
+        "field": "tcgdex_weakness",
+        "value": "Colorless"
+    },
+    {
+        "id": "A3b-083",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Veevee 'volve",
+                "effect": "This Pok\u00e9mon can evolve into any Pok\u00e9mon that evolves from Eevee if you play it from your hand onto this Pok\u00e9mon. (This Pok\u00e9mon can't evolve during your first turn or the turn you play it.)"
+            }
+        ]
+    },
+    {
+        "id": "A3b-084",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Full-Mouth Manner",
+                "effect": "At the end of your turn, if this Pok\u00e9mon is in the Active Spot, heal 20 damage from it."
+            }
+        ]
+    },
+    {
+        "id": "A3b-087",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Combust",
+                "effect": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pok\u00e9mon. If you do, do 20 damage to this Pok\u00e9mon."
+            }
+        ]
+    },
+    {
+        "id": "A3b-088",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "effect": "If this Pok\u00e9mon has at least 1 extra {W} Energy attached, this attack does 40 more damage.",
+                "damage": "40"
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "name": "Sparkling Aria",
+                "effect": "Heal 20 damage from this Pok\u00e9mon.",
+                "damage": "100"
+            }
+        ]
+    },
+    {
+        "id": "A3b-089",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Happy Ribbon",
+                "effect": "Once during your turn, when you play this Pok\u00e9mon from your hand to evolve 1 of your Pok\u00e9mon, you may draw 2 cards."
+            }
+        ]
+    },
+    {
+        "id": "A3b-090",
+        "field": "tcgdex_weakness",
+        "value": "Colorless"
+    },
+    {
+        "id": "A3b-091",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Full-Mouth Manner",
+                "effect": "At the end of your turn, if this Pok\u00e9mon is in the Active Spot, heal 20 damage from it."
+            }
+        ]
+    },
+    {
+        "id": "A3b-092",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Veevee 'volve",
+                "effect": "This Pok\u00e9mon can evolve into any Pok\u00e9mon that evolves from Eevee if you play it from your hand onto this Pok\u00e9mon. (This Pok\u00e9mon can't evolve during your first turn or the turn you play it.)"
+            }
+        ]
+    },
+    {
+        "id": "A3b-093",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Guillotine Rush",
+                "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+                "damage": "50"
+            }
+        ]
+    },
+    {
+        "id": "A3b-094",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Hydro Pump",
+                "effect": "If this Pok\u00e9mon has at least 3 extra {W} Energy attached, this attack does 70 more damage.",
+                "damage": "20"
+            }
+        ]
+    },
+    {
+        "id": "A3b-099",
+        "field": "tcgdex_abilities",
+        "value": [
+            {
+                "type": "Ability",
+                "name": "Psy Shadow",
+                "effect": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to the {P} Pok\u00e9mon in the Active Spot."
+            }
+        ]
+    },
+    {
+        "id": "A3b-105",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Peck",
+                "damage": "20"
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
+                "name": "Thundering Hurricane",
+                "effect": "Flip 4 coins. This attack does 50 damage for each heads.",
+                "damage": "50"
+            }
+        ]
+    },
+    {
+        "id": "A3b-106",
+        "field": "tcgdex_attacks",
+        "value": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "name": "Energized Blade",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pok\u00e9mon.",
+                "damage": "70"
+            }
+        ]
+    },
+    {
+        "id": "A3b-107",
+        "field": "tcgdex_effect",
+        "value": "Choose 1:  During this turn, attacks used by your Pok\u00e9mon that evolve from Eevee do +10 damage to your opponent's Active Pok\u00e9mon.  Heal 20 damage from each of your Pok\u00e9mon that evolves from Eevee."
+    }
+]

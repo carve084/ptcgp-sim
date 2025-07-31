@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS prop CASCADE;
+CREATE TABLE prop (
+    id SERIAL PRIMARY KEY,
+    cardId INT REFERENCES card(id),
+    name VARCHAR(255),
+    "value" VARCHAR(255)
+);
